@@ -1,0 +1,8 @@
+Install Dependencies
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+- tensorflow
+- transformers
+- torch
